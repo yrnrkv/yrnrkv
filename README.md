@@ -27,7 +27,7 @@
 
 <p align="center">
   <em>
-    AI Engineer and undergraduate researcher in Data Science based in Hong Kong SAR. Passionate about ML, DL, AI, and NLP, with a focus on building data-driven products and exploring applied research. Always learning, experimenting, and shipping.
+    Always learning, experimenting, and shipping.
   </em>
 </p>
 
