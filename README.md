@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/190/190192.gif"10" />
+  <img src="https://64.media.tumblr.com/c9ed0ce649007e8cb7d812f4c4529e85/tumblr_ovy1xizHrR1wz3o6do5_500.gif" />
   <b><i align="center">Thought: "You can't gain anything without losing something first. 
     But no amount of sacrifice can ever bring back what is lost”</i></b>
 </p>
