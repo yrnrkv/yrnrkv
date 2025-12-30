@@ -37,7 +37,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 18px; flex-wrap: wrap;">
-    <img src="[![image1](image1)](https://64.media.tumblr.com/c9ed0ce649007e8cb7d812f4c4529e85/tumblr_ovy1xizHrR1wz3o6do5_500.gif)" alt="Work-Life Toggle" width="320" />
+    <img src="(https://64.media.tumblr.com/c9ed0ce649007e8cb7d812f4c4529e85/tumblr_ovy1xizHrR1wz3o6do5_500.gif)" />
     <div style="max-width: 320px; text-align: left; font-style: italic; font-weight: 600;">
       Thought: "You can't gain anything without losing something first. But no amount of sacrifice can ever bring back what is lost”
     </div>
