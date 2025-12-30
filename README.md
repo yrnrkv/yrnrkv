@@ -40,8 +40,6 @@
 
 <br><br>
 
-<img align="right" width="200px" height="200px" alt="Work-Life Toggle" src="![image1](image1)" />
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ...***
 <br><br>
 ✔ Roles: AI Engineer; Undergraduate Researcher (Data Science)<br>
