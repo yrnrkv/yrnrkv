@@ -14,9 +14,10 @@
 <h3 align="center">AI Engineer | Undergraduate Researcher</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yernur-kuandykov/" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/yernur-kuandykov/" target="blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:yernurkuandykov@gmail.com" target="blank" style="text-decoration:none;">
   <a href="mailto:yernurkuandykov@gmail.com">
     <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" />
   </a>
