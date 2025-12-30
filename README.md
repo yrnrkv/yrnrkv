@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yernur-kuandykov/" target="blank" style="text-decoration:none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="34" width="45" />
   </a>
   <a href="mailto:yernurkuandykov@gmail.com" target="blank" style="text-decoration:none;">
   <a href="mailto:yernurkuandykov@gmail.com">
