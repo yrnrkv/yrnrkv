@@ -3,9 +3,6 @@
 </p>
 <br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yrnrkv&color=brightgreen" alt="profile views" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Engineer-blue" />
