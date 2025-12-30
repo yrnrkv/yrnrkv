@@ -26,11 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>
-    Always learning, experimenting, and shipping.
-  </em>
-</p>
 
 <br>
 
