@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Role-AI%20Engineer-blue" />
   <img src="https://img.shields.io/badge/Role-Undergraduate%20Researcher-orange" />
   <img src="https://img.shields.io/badge/Focus-ML%20%7C%20DL%20%7C%20AI%20%7C%20NLP-success" />
-  <img src="https://img.shields.io/badge/Location-Hong%20Kong%20SAR-informational" />
+  <img src="https://img.shields.io/badge/Location-Hong%20Kong%20SAR-yellow" />
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20Kazakh%20%7C%20Russian-purple" />
 </p>
 
