@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/190/190192.gif"50" />
+  <img src="https://giffiles.alphacoders.com/190/190192.gif"10" />
   <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b>
 </p>
 
