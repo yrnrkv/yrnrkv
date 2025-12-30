@@ -41,15 +41,6 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ...***
-<br><br>
-✔ Roles: AI Engineer; Undergraduate Researcher (Data Science)<br>
-✔ Focus: ML, DL, AI, NLP<br>
-✔ Location: Hong Kong SAR<br>
-✔ Collaboration: Open to ML/DL/AI research and applied projects<br>
-✔ Fun fact: Building things, learning fast, and iterating even faster<br>
-
-<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
