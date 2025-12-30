@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="50" />
+  <img src="https://i.pinimg.com/originals/2d/82/d9/2d82d901304ed14d0ea5d44c6d12dbac.gif" />
   <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b>
 </p>
 
