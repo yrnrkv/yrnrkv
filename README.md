@@ -35,7 +35,8 @@
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/190/190192.gif"10" />
-  <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b>
+  <b><i align="center">Thought: "You can't gain anything without losing something first. 
+    But no amount of sacrifice can ever bring back what is lost”</i></b>
 </p>
 
 <br><br>
